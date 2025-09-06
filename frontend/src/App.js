@@ -13,7 +13,7 @@ import { Slider } from "./components/ui/slider";
 import { Badge } from "./components/ui/badge";
 import { Progress } from "./components/ui/progress";
 import { Separator } from "./components/ui/separator";
-import { CheckCircle, Brain, Target, Zap, Habits, Growth, Focus } from "lucide-react";
+import { CheckCircle, Brain, Target, Zap, Activity, TrendingUp, FocusIcon } from "lucide-react";
 
 const BACKEND_URL = process.env.REACT_APP_BACKEND_URL;
 const API = `${BACKEND_URL}/api`;
