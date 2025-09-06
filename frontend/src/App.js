@@ -396,9 +396,9 @@ const ProfileResults = ({ profile, onGeneratePlan }) => {
   const axisIcons = {
     purpose_clarity: Target,
     energy_chronotype: Zap,
-    focus_capacity: Focus,
-    habit_foundation: Habits,
-    mindset: Growth,
+    focus_capacity: Brain,
+    habit_foundation: Activity,
+    mindset: TrendingUp,
     skill_fit: Brain
   };
 
